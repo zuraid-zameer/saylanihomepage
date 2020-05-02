@@ -1,0 +1,566 @@
+img.facebook{
+    width: 20px;
+    
+}
+img.twitter{
+    width: 20px;
+    
+}
+img.instagram{
+    width: 20px;
+}
+img.youtube{
+    width: 20px;
+}
+img.watsapp{
+    width:20px;
+}
+div.first{
+    background-color: royalblue;
+  
+
+}
+div.second{
+    height: 6px;
+    display: inline;
+    font: size 9px; ;
+    float: left;;
+    color: white;
+}
+div{
+    display: flex;
+    flex: space-between;
+    flex-direction: row;
+    justify-content: space-around;
+    ;
+ 
+    
+
+  
+
+    
+}
+div.logo{
+    
+    background-color: white;
+    
+}
+.home{ background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+}
+
+
+
+.about {
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+
+  .insideabout {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .insideabout a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .insideabout a:hover {background-color:royalblue;}
+  
+ 
+  .dropdown:hover .insideabout {display: block;}
+  
+
+  .dropdown:hover .about {background-color: royalblue;}
+
+
+
+
+  .saylaniservices{
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+ 
+  
+  
+
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+  }
+  .insidesaylaniservices {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .insidesaylaniservices a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .insidesaylaniservices a:hover {background-color:royalblue;}
+  
+ 
+  .dropdown2:hover .insidesaylaniservices {display: block;}
+  
+
+  .dropdown2:hover .saylaniservies {background-color: royalblue;}
+
+
+
+
+
+
+  .futureprojects{
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+ 
+  
+  
+
+  .dropdown3 {
+    position: relative;
+    display: inline-block;
+  }
+  .insidefutureprojects {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .insidefutureprojects a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .insidefutureprojects a:hover {background-color:royalblue;}
+  
+ 
+  .dropdown3:hover .insidefutureprojects {display: block;}
+  
+
+  .dropdown3:hover .futureprojects {background-color: royalblue;}
+
+
+
+.media{
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+
+
+
+  .news{
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+
+
+  .futureprojects{
+    background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+  }
+ 
+  
+  .donations{ background-color:royalblue;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 9px;
+    margin: 10px;
+    width: 15;
+    height: 9px;
+}
+
+  .dropdown4 {
+    position: relative;
+    display: inline-block;
+  }
+  .insidedonations {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  
+  .insidedonations a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .insidedonations a:hover {background-color:royalblue;}
+  
+ 
+  .dropdown4:hover .insidedonations {display: block;}
+  
+
+  .dropdown4:hover .donations {background-color: royalblue;}
+
+div.carousel-inner{
+  width: 1600px;
+  height: 530px;
+  display: inline;
+}
+div.blueback{
+  background-color: royalblue;
+}
+p.green{
+  color:darkgreen;
+}
+p.white{
+  color: white;
+}
+a.color{
+  color: blue;
+}
+p.gre{
+  color: royalblue;
+  font-size: 80px;
+  justify-content: center;
+}
+p.bl{
+  color: darkgreen;
+  font-size: 80px;
+  
+}
+img.logoo{
+  width: 50px;
+}
+div.par1{
+  margin: 20px;
+  padding: 10px;
+  text-align: justify;
+}
+div.fourc{
+  background-color: royalblue;
+  height:300px;
+  
+}
+img.firsti{
+  width: 80px;
+  height: 80px;
+}
+img.secondi{
+  width: 80px;
+  height: 80px;
+
+}
+img.thirdi{
+  width: 80px;
+  height: 80px;
+}
+img.fouri{
+
+  width: 80px;
+  height: 80px;
+}
+div.part2{
+  justify-content: center;
+}
+
+
+
+p.secondp{
+   color: white;
+   font-size: 40px;
+  
+}
+p.secondpp{
+  color: lightgreen;
+  font-size: 20px;
+}
+
+p.secondppp{
+  color: white;
+  font-size: 20px;
+}
+div.intro{
+  justify-content: center;
+}
+div.cards1, div.cards2, div.cards3{
+background-color: lightgray;
+height: 200px;
+width: 400px;
+color: royalblue;
+font-size: 32px;
+justify-content: center;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+
+}
+
+img.cards3i, img.cards2i, img.cards1i{
+width: 100px;
+height: 100px;
+}
+p.welfare, p.medical{
+  position: relative;
+  top: 150px;
+  right: 50px;
+}
+p.sadqah{
+  position: relative;
+  top: 150px;
+  right: 80px;
+
+}
+img.imgs{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+div.cards4, div.cards5, div.cards6{
+  background-color: lightgray;
+  height: 200px;
+  width: 400px;
+  color: royalblue;
+  font-size: 32px;
+  justify-content: center;
+  margin: 20px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   
+  
+  
+  }
+  @media only screen and (max-width: 600px){
+    div.cards4, div.cards5, div.cards6{
+      width: 200px;
+    } 
+  }
+  img.ig{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+  }
+  p.imgss{
+      position: relative;
+      top: 150px;
+      right: 70px;
+   }
+   p.imgsss{
+    position: relative;
+    top: 150px;
+    right: 90px;
+ }
+ div.hepatisis, div.house{
+   width: 400px;
+   height: 100px;
+   background-color: lightgrey;
+   margin: 20px;
+   position: relative;
+   left: 280px;
+ }
+ div.headings{
+   color: royalblue;
+
+ 
+ }
+ img.imgg, img.imgz{
+   position: relative;
+   top: 20px;
+   width: 80px;
+   height: 50px;
+ }
+ div.problem{
+   width: 900px;
+ }
+ p.set{
+   color: royalblue;
+   position: relative;
+   top: 30px;
+   right: 80px;
+   font-size: 20px;
+ }
+ div.pa{
+   width: 500px;
+   position: relative;
+   height: 500px;
+   right: 200px;
+ }
+ div.leftside{
+   position: relative;
+   left: 320px;
+ }
+ div.IT, div.Tharparkar{
+  width: 400px;
+  height: 100px;
+  background-color: lightgrey;
+  margin: 20px;
+  position: relative;
+  top: 150px;
+  right: 600px;
+
+ }
+ p.sets{
+  color: royalblue;
+  position: relative;
+  top: 30px;
+  right: 80px;
+  font-size: 20px;
+
+ }
+ div.images{
+   
+   align-content: flex-start;
+   max-width: 200px;
+   margin: auto;
+ }
+ img.img5{
+   width: 130%;
+   height: 150px;
+   margin: 10px;
+
+ }
+ img.img5:hover{
+   opacity: .5;
+   transition: .9s;
+  }
+  div.footer{
+    background-color: dimgray;
+    height: 300px;
+    width: 1500px;
+  }
+  div.info{
+    color: white;
+  }
+  div.useful{
+    color: white;
+    font-size: 20px;
+  }
+  div.Contact{
+    color: white;
+    font-size: 20px;
+  }
+  div.last{
+    color: white;
+    background-color: royalblue;
+    width: 1500px;
+    height: 30px;
+    position: relative;
+  }
+  p.last{
+    position: relative;
+    top: 5px;
+    left: -515px;
+    
+  }
+div.us{
+  position: relative;
+  top: 30px;
+  left: -150px;
+}
+p.use{
+  color:lightgreen;
+  position: relative;
+  top: 10px;
+  left: -100px;
+}
+img.1, img.2, img.i3, img.4, img.5, img.6{
+  height: 20px;
+  width: 20px;
+  
+}
+img.i3, img.i2, img.i1, img.i4, img.i5, img.i6{
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: 150px;
+  left: -225px;
+}
+div.info{
+  justify-content: left;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
